@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1640355451 source:/media/djoker/code/linux/cpp/raylib/rayprojects/rayets/main.cpp
+	<iostream>
+	"Core.h"
+
+1639339782 /media/djoker/code/linux/cpp/raylib/rayprojects/rayets/include/Global.h
+	<raylib.h>
+	<rlgl.h>
+	<raymath.h>
+	<vector>
+	<iterator>
+	<algorithm>
+	<iostream>
+	<vector>
+	<string>
+	<sstream>
+	<map>
+	<list>
+
+1640355501 source:/media/djoker/code/linux/cpp/raylib/rayprojects/rayets/src/Core.cpp
+	"Core.h"
+
+1640355687 /media/djoker/code/linux/cpp/raylib/rayprojects/rayets/include/Core.h
+	"Global.h"
+

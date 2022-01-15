@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TextureAtlas imagePath="red2x.png">
+	<!--
+	Created with ShoeBox
+	http://renderhjs.net/shoebox/
+	-->
+	<SubTexture name="coin01_01.png"	x="0"	y="107"	width="19"	height="19" frameX="-0" frameY="-0" frameWidth="19" frameHeight="19"/>
+	<SubTexture name="coin02_02.png"	x="20"	y="107"	width="17"	height="17" frameX="-0" frameY="-0" frameWidth="17" frameHeight="17"/>
+	<SubTexture name="coin03_03.png"	x="25"	y="60"	width="15"	height="15" frameX="-0" frameY="-0" frameWidth="15" frameHeight="15"/>
+	<SubTexture name="coin04_04.png"	x="65"	y="14"	width="13"	height="14" frameX="-0" frameY="-0" frameWidth="13" frameHeight="14"/>
+	<SubTexture name="coin05_05.png"	x="65"	y="0"	width="13"	height="13" frameX="-0" frameY="-0" frameWidth="13" frameHeight="13"/>
+	<SubTexture name="coin_particle.png"	x="38"	y="107"	width="9"	height="9" frameX="-0" frameY="-0" frameWidth="9" frameHeight="9"/>
+	<SubTexture name="damage_particle.png"	x="46"	y="124"	width="3"	height="3" frameX="-0" frameY="-0" frameWidth="3" frameHeight="3"/>
+	<SubTexture name="launcher.png"	x="0"	y="8"	width="24"	height="6" frameX="-0" frameY="-0" frameWidth="24" frameHeight="6"/>
+	<SubTexture name="launcher_particle.png"	x="38"	y="117"	width="7"	height="7" frameX="-0" frameY="-0" frameWidth="7" frameHeight="7"/>
+	<SubTexture name="player_01.png"	x="48"	y="93"	width="19"	height="30" frameX="-0" frameY="-0" frameWidth="19" frameHeight="30"/>
+	<SubTexture name="player_02.png"	x="47"	y="30"	width="21"	height="29" frameX="-0" frameY="-0" frameWidth="21" frameHeight="29"/>
+	<SubTexture name="player_03.png"	x="25"	y="30"	width="21"	height="29" frameX="-0" frameY="-0" frameWidth="21" frameHeight="29"/>
+	<SubTexture name="player_04.png"	x="25"	y="0"	width="22"	height="29" frameX="-0" frameY="-0" frameWidth="22" frameHeight="29"/>
+	<SubTexture name="player_05.png"	x="0"	y="15"	width="24"	height="29" frameX="-0" frameY="-0" frameWidth="24" frameHeight="29"/>
+	<SubTexture name="player_06.png"	x="24"	y="78"	width="23"	height="28" frameX="-0" frameY="-0" frameWidth="23" frameHeight="28"/>
+	<SubTexture name="player_07.png"	x="48"	y="0"	width="16"	height="29" frameX="-0" frameY="-0" frameWidth="16" frameHeight="29"/>
+	<SubTexture name="player_08.png"	x="48"	y="60"	width="20"	height="32" frameX="-0" frameY="-0" frameWidth="20" frameHeight="32"/>
+	<SubTexture name="player_09.png"	x="0"	y="45"	width="24"	height="32" frameX="-0" frameY="-0" frameWidth="24" frameHeight="32"/>
+	<SubTexture name="spike.png"	x="0"	y="0"	width="24"	height="7" frameX="-0" frameY="-0" frameWidth="24" frameHeight="7"/>
+	<SubTexture name="star.png"	x="0"	y="78"	width="23"	height="23" frameX="-0" frameY="-0" frameWidth="23" frameHeight="23"/>
+</TextureAtlas>
